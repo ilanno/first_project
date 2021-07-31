@@ -1,4 +1,4 @@
 def square():
-	a^b
+	a^b*a*b
 def divdiv():
 	a/a/b/b*a*a*b*b
